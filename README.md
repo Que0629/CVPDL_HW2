@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-"# CVPDL_HW2" 
-=======
-environment details:
 
+environment details:
 系統:Windows 11 家用版，64 位元作業系統，x64 型處理器
 
 GPU:NVDIA Geforce RTX3060 12GB
@@ -45,4 +42,3 @@ python -m --device cuda:0 --num-workers 0 --batch-size 16 pytorch_fid path/to/da
 
 ----------其他小程式
 python3 resize_img.py 調整原圖大小跑計算FID時才不會抱錯
->>>>>>> 8cc6796 (first commit)
